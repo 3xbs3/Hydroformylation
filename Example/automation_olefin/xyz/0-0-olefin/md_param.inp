@@ -1,0 +1,10 @@
+$md
+temp=400 # in K, thermostat temperature
+time=100.0 # in ps, total run time of simulation
+dump=100.0 # in fs, interval for trajectory printout
+step=1.0 # in fs, time step for propagation
+velo=false # also write out velocities
+nvt=true # perform simulation in NVT ensemble
+hmass=1 # mass of hydrogen atoms
+shake=1 # use SHAKE algorithm to constrain bonds, 0 = off, 1 = X-H only, 2 = all bonds
+$end
