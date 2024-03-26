@@ -1,6 +1,6 @@
 # Hydroformylation
-This repository was constructed to archive the work for the journal titled `Implementing Quantum Information and Machine Learning for Comprehensive Regioselectivity Prediction in Terminal Olefin Hydroformylation`.
-![][Figure.png]
+This repository was constructed to archive the work for the journal titled `Implementing Quantum Information and Machine Learning for Comprehensive Regioselectivity Prediction in Terminal Olefin Hydroformylation`.  
+![][/Figure.png]
 ## Machine Learning
 ### Database 
 The file 'Database.csv' serves as our database for the hydroformylation reaction data.
