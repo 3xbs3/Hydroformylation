@@ -1,6 +1,6 @@
 # Hydroformylation
 This repository was constructed to archive the work for the journal titled `Implementing Quantum Information and Machine Learning for Comprehensive Regioselectivity Prediction in Terminal Olefin Hydroformylation`.  
-![]Figure.png
+![][figure]
 ## Machine Learning
 ### Database 
 The file 'Database.csv' serves as our database for the hydroformylation reaction data.
@@ -18,3 +18,5 @@ Please refer to the file located at `Scripts/MPNN/MPNN.py`.
 Please refer to the file located at `Scripts/Pointnet/Pointnet.py`.
 ### Classic model
 Please refer to the file located at `Scripts/Tradition/All-olefin.ipynb`. This applies to the other models as well.
+
+[figure]:Figure.png
