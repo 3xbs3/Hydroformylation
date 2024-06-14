@@ -1,5 +1,5 @@
 # Hydroformylation
-This repository was constructed to archive the work for the journal titled `Implementing Quantum Information and Machine Learning for Comprehensive Regioselectivity Prediction in Terminal Olefin Hydroformylation`.  
+This repository was constructed to archive the work for the journal titled `Personalized Machine Learning Models of Terminal Olefin Hydroformylation for Regioselectivity Prediction`.  
 ![][figure]
 ## Machine Learning
 ### Data Collection 
